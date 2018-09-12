@@ -1,6 +1,6 @@
-# shudulele
+# 数独乐乐
 
-> shudulele
+> 一个数独小游戏
 
 ## Build Setup
 
